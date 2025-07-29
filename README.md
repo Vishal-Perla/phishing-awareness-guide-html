@@ -17,4 +17,4 @@ We frequently receive reports from faculty, staff, and students who fall for phi
 
 ---
 
-This project is part of my broader effort to make cybersecurity training and support more human, visual, and actionable—especially for those most vulnerable to scams.
+This project is part of my broader effort to make cybersecurity training and support more human, visual, and actionable. Especially for those most vulnerable to scams.
